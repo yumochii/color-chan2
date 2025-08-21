@@ -1,6 +1,6 @@
 # color-chan2 — M5StickC Plus / UIFlow (Python)
 
-「色を見る」
+**「色を聴く」**
 
 **色（RGB）を“音”に変換して鳴らす** M5StickC Plus 用の UIFlow（MicroPython）プロジェクトです。  
 カラーセンサーのRGBから和音を生成し、Unit SYNTHで再生します。
